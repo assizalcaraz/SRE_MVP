@@ -20,6 +20,8 @@ La aplicación central simula un sistema de **validación de identidad biométri
 - **Despliegue**: Docker + AWS ECS/Fargate o Elastic Beanstalk.
 
 ### Diagrama de Arquitectura (a completar)
+![Diagrama de arquitectura](docs/img/diagrama_arquitectura_mvp.png)
+
 > Incluye red, contenedores, servicios, volúmenes y roles de IAM.
 
 ---
